@@ -1,22 +1,27 @@
-Hi there 👋
+# Hi there 👋 
 
-I'm Putu Mas Anggita Putra | Software Engineer | Open to Work 👨🏻‍💻
+## I'm Putu Mas Anggita Putra | Senior Software Engineer | Open to Work 👨🏻‍💻
 
-I'm passionate about Software Engineer with 5 years of experience building reliable, high-performing systems and creating Microservices. My expertise is primarily in Golang, Python, NodeJs and related frameworks, with a focus on scale, security, and maintainability. and building tools that make a real impact.
+I'm passionate about **Software Engineer with 5+ years of experience building reliable, high-performing systems and creating Microservices. My expertise is primarily in Golang, Python, NodeJS and related frameworks, along with focusing on scale, security, and maintainability.** and building tools that make a real impact.
 
-🛠️ Tech Stack & Tools
-Languages: Golang, Python, NodeJS, TypeScript, PHP
-Frameworks: Express, Flask, Django, Laravel, Echo, Gin, Fiber, Goravel, and all releated framework that releated with it
-Databases: PostgreSQL, MySQL, MongoDB, Redis
-Message Broker: Kafka, RabbitMQ
-Arch: Microservices, System Design, Design Pattern, CQRS
-Tools: Git, Docker, Kubernetes, Jenkins, Sonarqube
-Api Arch: REST, GRPC, GraphQL
+---
 
-🚀 Let's connect and make a real, impactful project. More details about me can be found by following the profile!
-LinkedIn: Anggita Putra
-Instagram: anggitaputra13
-Phone: +62 851 2120 3125
-Email: anggitaputra13@gmail.com
+### 🛠️ Tech Stack & Tools
+* **Languages:** Golang, Python, JavaScript, PHP
+* **Frameworks:** Express, Flask, Django, Laravel, Lumen, Echo, Gin, Fiber, Goravel, and all releated framework that are related to it
+* **Databases:** PostgreSQL, MySQL, MongoDB, Redis
+* **Message Broker:** Kafka, RabbitMQ
+* **Arch:** Microservices, System Design, Design Pattern, CQRS
+* **Api:** REST, GRPC, GraphQL
+* **Tools:** Git, Docker, Kubernetes, Jenkins, Sonarqube
 
-Best Regards, Putu Mas Anggita Putra
+---
+
+### 🚀 Let's connect and make a real impactful project. More details about me can be checked by following the profile!
+
+* **LinkedIn:** [Anggita Putra](https://www.linkedin.com/in/anggitaputra13/)
+* **Website:** [anggitaputra.com](https://www.anggitaputra.com)
+* **Email:** [anggitaputra13@gmail.com](anggitaputra13@gmail.com)
+
+**Best Regards,**
+**Putu Mas Anggita Putra**
