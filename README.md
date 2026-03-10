@@ -2,7 +2,7 @@
 
 ## I'm Putu Mas Anggita Putra | Senior Software Engineer | Open to Work 👨🏻‍💻
 
-I'm passionate about **Software Engineer with 5+ years of experience building reliable, high-performing systems and creating Microservices. My expertise is primarily in Golang, Python, NodeJS and related frameworks, along with focusing on scale, security, and maintainability.** and building tools that make a real impact.
+I'm passionate about **Software Engineer with 5+ years of experience building reliable, high-performing systems and creating Microservices. My expertise is primarily in Golang, Python, Javascript and related frameworks, along with focusing on scale, security, and maintainability.** and building tools that make a real impact.
 
 ---
 
